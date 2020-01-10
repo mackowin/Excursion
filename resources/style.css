@@ -11,6 +11,21 @@ h1 {
     font-size: 3.125rem;
 }
 
+h2 {
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+.guide p {
+    font-size: 1.3125rem;
+    color: gray;
+}
+
 a {
     color: aquamarine;
+}
+
+footer {
+    text-align: right;
+    color: gray;
 }
