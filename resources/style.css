@@ -25,6 +25,10 @@ a {
     color: aquamarine;
 }
 
+.downloads img {
+    margin-top: 2rem;
+}
+
 footer {
     text-align: right;
     color: gray;
