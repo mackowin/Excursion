@@ -1,5 +1,5 @@
 # :tent: Excursion web about discovering hidden places #
-CodeCademy Project: practice HTML, CSS and Command Line
+CodeCademy Project: Practice HTML, CSS and Command Line
 
 ## Table of Contents ##
 * [General Info](#General-Info)
